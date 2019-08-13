@@ -1,6 +1,7 @@
   -----------------------------------------------------------------------
                 Windows X Loader [ README / 27/02/19 04:07]
   -----------------------------------------------------------------------
+![photo](https://raw.githubusercontent.com/Neytho/Windows-X-Loader/master/images/screen/KMS1.PNG)
 
 Windows X Loader v2.5.5 by Neytho est un outil pour activer votre
 Microsoft Windows. Il peut activer Windows 10. Cet outil peut être
@@ -14,6 +15,11 @@ meme si vous l'avez pas.
     d'utilisateur =\> Ne jamais notifier.
 
 -   Étape 3: Lancer en Administrateur.
+
+![photo](https://raw.githubusercontent.com/Neytho/Windows-X-Loader/master/images/screen/KMS%202.PNG)
+
+![photo](https://raw.githubusercontent.com/Neytho/Windows-X-Loader/master/images/screen/KMS3.PNG)
+
 
 Activateurs windows 10 qui fonctionne a 100% :
 
